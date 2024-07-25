@@ -39,8 +39,6 @@
 [Github](https://github.com/eamonwong/Spotify-Playlist-using-Python)
 Created a Python project in which the user can create a Playlist on Spotify (naming the playlist and creating a description) and can add songs to said Playlist. The project was built using Python and Spotify API.
 
-https://github.com/eamonwong/Spotify-Playlist-using-Python/assets/75913022/6418ba3c-7642-4af9-bed7-c450b89e2db0
-
 ### DjangoChat
 [Github](https://github.com/eamonwong/djangochat)
 Crafted with Python, DjangoChat offers a real-time chat platform facilitated by Django, a high-level Python web framework. It provides users with instantaneous messaging capabilities without the need for page refresh. Developed the application from inception to deployment, including database design, frontend and backend implementation, and performance testing and intuitive user interface with responsive design for seamless interaction across devices. The project was built using Python, Django, AJAX and WebSockets
