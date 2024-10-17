@@ -1,6 +1,6 @@
 # Software Developer
 
-#### Technical Skills: Python, Django, Flask, Git, Java, HTML/CSS, React
+#### Technical Skills: Python, Django, Flask, Git, Java, React, HTML/CSS
 
 ## Education
 - University of Glasgow, Glasgow, Lanarkshire | Computer Science
