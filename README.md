@@ -1,6 +1,6 @@
 # Software Developer
 
-#### Technical Skills: Python, Django, Flask, Git, Java, HTML/CSS
+#### Technical Skills: Python, Django, Flask, Git, Java, HTML/CSS, React
 
 ## Education
 - University of Glasgow, Glasgow, Lanarkshire | Computer Science
@@ -10,15 +10,15 @@
 ## Programming Experience
 **Junior Software Developer @ Planck (September 2023 - December 2023)**
 - Collaborated effectively with cross-functional teams to ensure successful project delivery and alignment with the agile and evolving goals of the start-up.
-- Adapted quickly to the startup environment, enhancing the functionality of the flagship product by 20%.
-- Improved user satisfaction by 15% through UI enhancements based on user feedback.
-- Engaged in constructive code reviews, contributing to a 30% reduction in code-related issues.
-- Successfully integrated TinyCore Linux with Ubuntu to enhance system compatibility and performance.
-- Developed and managed a secure transaction processing wallet for efficient financial transactions, contributing to the start-up's resourcefulness and financial stability.
+- Spearheaded initiatives to optimise the flagship product, enhancing its functionality by 20%, including refining the backend processes using Machine Learning to improve transaction processing efficiency and user experience. Improved user satisfaction by 15% through UI enhancements based on user feedback.
+- Led the development of key user interface elements for the wallet using Kivy, improving user satisfaction by 15% through responsive UI design and continuous iteration based on real-time user feedback. This enhancement directly improved the product's usability and customer retention.Successfully integrated TinyCore Linux with Ubuntu to enhance system compatibility and performance.
+- Designed, developed, and managed a secure transaction processing wallet, focusing on safeguarding user transactions and data privacy. This involved integrating robust encryption mechanisms and streamlining backend operations using Machine Learning models for fraud detection and enhanced transaction processing speed.
 - Played a pivotal role in resolving a critical bug that significantly boosted user satisfaction and overall app performance, directly contributing to the start-up's success.
 - Actively collaborated with senior team members, fostering a positive work environment and driving project success.
 - Conducted thorough security audits to identify and remediate potential vulnerabilities, ensuring the wallet's integrity and trustworthiness.
-- Developed and implemented comprehensive transaction monitoring systems, resulting in a 20% reduction in potential fraudulent activities, and safeguarding user funds.
+- Implemented advanced transaction monitoring systems using Machine Learning algorithms to detect and prevent fraudulent activities. This effort reduced potential fraudulent transactions by 20%, ensuring user funds were safeguarded and the company remained compliant with security protocols.
+- Contributed to the development of the wallet’s frontend using React, implementing dynamic and user-friendly features that improved the overall user experience. Worked closely with the design team to ensure seamless integration between the frontend and backend systems.
+- Leveraged startup experience to remain resourceful and adaptable in addressing challenges, contributing to the start-up’s financial stability by effectively managing development resources and driving project success. My ability to work independently and collaborate in a team helped the start-up achieve key milestones.
 
 **Freelance Software Developer, Glasgow, Newton Mearns @ Freelancing/Contract (Jan 2021 - March 2023)**
 - Led the design and development of Python, Flask, and Django projects, including a content aggregator and expense tracker, achieving less than 20% code churn.
@@ -47,6 +47,11 @@ Created a traditional Connect 4 game in which the opponent is an Al. The AI is o
 ### Sudoku Game & Solver
 [Github](https://github.com/eamonwong/Sudoku-Solver-GUI)
 Developed a UI to play the game of Sudoku. Implemented a solver feature that searches for a solution to any solvable game using the backtracking approach. The project was built using Python.
+
+### Python Sorting Algorithm Visualisation:
+[Github](https://github.com/eamonwong/Python-Sorting-Algorithm-Visualiser)
+Built an interactive Python project to visualise sorting algorithms, allowing users to observe step-by-step processes of Bubble Sort and Insertion Sort in real time. The visualisation includes options to reset the list, toggle between sorting orders, and switch between algorithms, all facilitated through custom keyboard controls. The project was built using Python and Pygame.
+
 
 
 
