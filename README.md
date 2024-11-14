@@ -44,6 +44,10 @@ Crafted with Python, DjangoChat offers a real-time chat platform facilitated by 
 [Github](https://github.com/eamonwong/connect4-with-ai)
 Created a traditional Connect 4 game in which the opponent is an Al. The AI is on the maximum difficulty to make the game more engaging and exciting for the user. The project was built using Python and Pygame.
 
+### Internet Speed Test with Python
+[Github](https://github.com/eamonwong/Internet-Speed-Test-with-Python)
+Developed a Python-based internet speed test tool with a graphical interface, allowing users to measure download and upload speeds in real time. The application saves results with timestamps and visualizes historical data using an interactive graph with dual y-axes for clearer comparison. Built with Tkinter, Matplotlib, and Speedtest-cli, the project combines functional utility with data visualisation to monitor network performance over time.
+
 ### Sudoku Game & Solver
 [Github](https://github.com/eamonwong/Sudoku-Solver-GUI)
 Developed a UI to play the game of Sudoku. Implemented a solver feature that searches for a solution to any solvable game using the backtracking approach. The project was built using Python.
