@@ -52,10 +52,10 @@ Developed a Python-based internet speed test tool with a graphical interface, al
 [Github](https://github.com/eamonwong/Sudoku-Solver-GUI)
 Developed a UI to play the game of Sudoku. Implemented a solver feature that searches for a solution to any solvable game using the backtracking approach. The project was built using Python.
 
-### Python Sorting Algorithm Visualisation:
+### Python Sorting Algorithm Visualisation
 [Github](https://github.com/eamonwong/Python-Sorting-Algorithm-Visualiser)
 Built an interactive Python project to visualise sorting algorithms, allowing users to observe step-by-step processes of Bubble Sort and Insertion Sort in real time. The visualisation includes options to reset the list, toggle between sorting orders, and switch between algorithms, all facilitated through custom keyboard controls. The project was built using Python and Pygame.
 
-### FlaskDiary:
+### FlaskDiary
 [Github](https://github.com/eamonwong/FlaskDiary)
 Developed a secure, user-centric diary application using Flask, enabling users to register, log in, and manage personal diary entries. The application features functionality to create, edit, and delete entries, with all data securely stored per user through session management and password hashing. The project includes an intuitive interface for seamless user experience, built with Python, Flask, and Jinja2 templates.
