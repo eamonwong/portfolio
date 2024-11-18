@@ -30,6 +30,13 @@
 - Assisted senior employees in testing Python code , J2EE code and developing Java-based web applications, contributing to client deliverables.
 - Participated in Agile processes, attending daily stand-ups and sprint reviews to stay aligned with project goals.
 
+## Achievements
+### World Challenge Expedition to Namibia (June 2018 - July 2018)
+- Following my achievement of the Silver Duke of Edinburgh Award, I embarked on a life-changing World Challenge Expedition to Namibia.
+- Successfully raised £5,000 to fund the trip, demonstrating my initiative, goal-setting, and perseverance.
+- Contributed to the local school community by helping build a swing park and vegetable garden, providing sustainable resources for the students.
+- Gained valuable insights into the daily challenges faced by the community, enriching my perspective and reinforcing my commitment to meaningful projects.
+
 ## Personal Projects
 ### Spotify Playlist
 [Github](https://github.com/eamonwong/Spotify-Playlist-using-Python)
@@ -49,7 +56,7 @@
 
 ### Internet Speed Test with Python
 [Github](https://github.com/eamonwong/Internet-Speed-Test-with-Python)
-- Developed a Python-based internet speed test tool with a graphical interface, allowing users to measure download and upload speeds in real time. The application saves results with timestamps and visualizes historical data using an interactive graph with dual y-axes for clearer comparison.
+- Developed a Python-based internet speed test tool with a graphical interface, allowing users to measure download and upload speeds in real time. The application saves results with timestamps and visualises historical data using an interactive graph with dual y-axes for clearer comparison.
 - Built with Tkinter, Matplotlib, and Speedtest-cli, the project combines functional utility with data visualisation to monitor network performance over time.
 
 ### Sudoku Game & Solver
