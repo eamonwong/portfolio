@@ -8,7 +8,7 @@
 - freeCodeCamp, online | [Scientific Computing with Python Certification](https://www.freecodecamp.org/certification/eamonwong/scientific-computing-with-python-v7)
 
 ## Programming Experience
-**Junior Software Developer @ Planck (September 2023 - December 2023)**
+**Junior Software Developer, Remote @ Planck (September 2023 - December 2023)**
 - Collaborated effectively with cross-functional teams to ensure successful project delivery and alignment with the agile and evolving goals of the start-up.
 - Spearheaded initiatives to optimise the flagship product, enhancing its functionality by 20%, including refining the backend processes using Machine Learning to improve transaction processing efficiency and user experience. Improved user satisfaction by 15% through UI enhancements based on user feedback.
 - Led the development of key user interface elements for the wallet using Kivy, improving user satisfaction by 15% through responsive UI design and continuous iteration based on real-time user feedback. This enhancement directly improved the product's usability and customer retention.Successfully integrated TinyCore Linux with Ubuntu to enhance system compatibility and performance.
@@ -20,7 +20,7 @@
 - Contributed to the development of the wallet’s frontend using React, implementing dynamic and user-friendly features that improved the overall user experience. Worked closely with the design team to ensure seamless integration between the frontend and backend systems.
 - Leveraged startup experience to remain resourceful and adaptable in addressing challenges, contributing to the start-up’s financial stability by effectively managing development resources and driving project success. My ability to work independently and collaborate in a team helped the start-up achieve key milestones.
 
-**Freelance Software Developer, Glasgow, Newton Mearns @ Freelancing/Contract (Jan 2021 - March 2023)**
+**Freelance Software Developer, Glasgow @ Freelancing/Contract (Jan 2021 - March 2023)**
 - Led the design and development of Python, Flask, and Django projects, including a content aggregator and expense tracker, achieving less than 20% code churn.
 - Created RESTful APIs using Flask to handle backend logic for client applications, enhancing performance and usability.
 - Implemented a secure login module and transaction management system using Django, boosting overall departmental process efficiency by 14%.
