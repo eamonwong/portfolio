@@ -54,6 +54,13 @@
 - Created a traditional Connect 4 game in which the opponent is an Al. The AI is on the maximum difficulty to make the game more engaging and exciting for the user.
 - The project was built using Python and Pygame.
 
+### Colour Game - Test Your Reflexes and Memory!
+[GitHub](https://github.com/eamonwong/Colour-Game)
+- Designed a fast-paced word-colour association game using Python and Tkinter, challenging players to type the colour of the word displayed (not the text itself), testing reflexes and cognitive skills.
+- Integrated a leaderboard to automatically save and display top scores, along with AI-driven feedback providing insights into accuracy, reaction time, and streak performance.
+- Features include real-time score updates, an animated countdown bar, and streak analysis to motivate consistent performance.
+- Technologies used: Python, Tkinter for the GUI, Numpy for response time calculations, and file handling for leaderboard data management.
+
 ### Internet Speed Test with Python
 [Github](https://github.com/eamonwong/Internet-Speed-Test-with-Python)
 - Developed a Python-based internet speed test tool with a graphical interface, allowing users to measure download and upload speeds in real time. The application saves results with timestamps and visualises historical data using an interactive graph with dual y-axes for clearer comparison.
