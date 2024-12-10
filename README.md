@@ -77,6 +77,13 @@
 - The application offers intuitive keyboard controls to reset the list, switch between sorting orders, and toggle algorithms seamlessly.
 - The project was built using Python and Pygame.
 
+### Expense Tracker App
+[Github](https://github.com/eamonwong/Expense-Tracker-App)
+- Designed an Expense Tracker App using Python and Tkinter to help users manage their monthly budgets and track expenses.
+- Features include real-time budget updates, customisable categories, and expense data export to JSON format for analysis.
+- Designed a user-friendly GUI for adding expenses with date, category, and amount.
+- Technologies used: Python, Tkinter for GUI, JSON for data storage and export.
+
 ### FlaskDiary
 [Github](https://github.com/eamonwong/FlaskDiary)
 - Created a secure, user-centric diary application using Flask, enabling users to register, log in, and manage personal diary entries. The application features functionality to create, edit, and delete entries, with all data securely stored per user through session management and password hashing.
