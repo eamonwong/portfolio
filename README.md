@@ -2,6 +2,8 @@
 
 #### Technical Skills: Python, Django, Flask, Git, Java, React, HTML/CSS
 
+#### Soft Skills: Problem-solving, adaptability, communication
+
 ## Education
 - University of Glasgow, Glasgow, Lanarkshire | Computer Science
 - Harvard University, online | [CS50's Introduction to Computer Science](https://certificates.cs50.io/deb3ca64-aabd-45ab-afb2-c238e09b754c.pdf?size=letter)
@@ -70,6 +72,13 @@
 [Github](https://github.com/eamonwong/Sudoku-Solver-GUI)
 - Developed a UI to play the game of Sudoku. Implemented a solver feature that searches for a solution to any solvable game using the backtracking approach.
 - The project was built using Python.
+
+### Lyrics Extractor App
+[Github](https://github.com/eamonwong/LyricsExtractorApp)
+- Developed a Python-based Lyrics Extractor App with a sleek CustomTkinter GUI, allowing users to search for song lyrics and view album art.
+- Features include Spotify and Genius integration, dark mode toggle, and persistent search history stored in a local JSON file.
+- Implemented APIs such as LyricsGenius for fetching lyrics and Spotipy for retrieving Spotify song data.
+- Technologies used: Python, CustomTkinter for GUI, LyricsGenius API, Spotipy API, Pillow for image handling, and JSON for data persistence.
 
 ### Python Sorting Algorithm Visualisation
 [Github](https://github.com/eamonwong/Python-Sorting-Algorithm-Visualiser)
