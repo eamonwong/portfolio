@@ -22,7 +22,7 @@
 - Contributed to the development of the wallet’s frontend using React, implementing dynamic and user-friendly features that improved the overall user experience. Worked closely with the design team to ensure seamless integration between the frontend and backend systems.
 - Leveraged startup experience to remain resourceful and adaptable in addressing challenges, contributing to the start-up’s financial stability by effectively managing development resources and driving project success. My ability to work independently and collaborate in a team helped the start-up achieve key milestones.
 
-**Freelance Software Developer, Glasgow @ Freelancing/Contract (Jan 2021 - March 2023)**
+**Freelance Software Developer, Glasgow @ Various Clients (Jan 2021 - Feb 2025)**
 - Led the design and development of Python, Flask, and Django projects, including a content aggregator and expense tracker, achieving less than 20% code churn.
 - Created RESTful APIs using Flask to handle backend logic for client applications, enhancing performance and usability.
 - Implemented a secure login module and transaction management system using Django, boosting overall departmental process efficiency by 14%.
@@ -31,6 +31,11 @@
 - Ensured smooth communication between clients and the development team, resulting in seamless transitions of requirements.
 - Assisted senior employees in testing Python code , J2EE code and developing Java-based web applications, contributing to client deliverables.
 - Participated in Agile processes, attending daily stand-ups and sprint reviews to stay aligned with project goals.
+- Collaborated with cross-functional teams to refine requirements, troubleshoot defects, and deliver features on schedule.
+- Gained exposure to DevOps practices: Containerised apps using Docker and set up CI/CD pipelines (GitHub Actions).
+- Developed scientific data tools in Python, automating workflows and reducing manual processing time by 30%.
+- Participated in peer code reviews to ensure best practices.
+- Identified and fixed critical bugs, improving application stability and user satisfaction by 20%.
 
 ## Achievements
 ### World Challenge Expedition to Namibia (June 2018 - July 2018)
