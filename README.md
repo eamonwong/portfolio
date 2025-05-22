@@ -56,6 +56,12 @@
 - Developed the application from inception to deployment, including database design, frontend and backend implementation, and performance testing and intuitive user interface with responsive design for seamless interaction across devices.
 - The project was built using Python, Django, AJAX and WebSockets
 
+### Static Site Generator
+[Github](https://github.com/eamonwong/StaticSiteGenerator)
+- Produced a Python-powered static site generator that transforms Markdown content into fully styled HTML pages with live portfolio integration. The tool automatically converts Markdown syntax (including code blocks) into clean HTML while embedding my live GitHub Pages portfolio via iframe, ensuring real-time updates without manual rebuilds.
+- The generator features Jinja2 template inheritance for consistent layouts, JSON configuration for metadata management, and lightweight deployment to any static hosting service
+- The project was built using Python, Jinja2, and Markdown2.
+
 ### Connect 4 with AI
 [Github](https://github.com/eamonwong/connect4-with-ai)
 - Created a traditional Connect 4 game in which the opponent is an Al. The AI is on the maximum difficulty to make the game more engaging and exciting for the user.
