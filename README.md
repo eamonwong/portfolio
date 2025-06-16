@@ -50,6 +50,12 @@
 - Created a Python project in which the user can create a Playlist on Spotify (naming the playlist and creating a description) and can add songs to said Playlist.
 - The project was built using Python and Spotify API.
 
+### Spotify Playlist Creator
+[Github](https://github.com/eamonwong/Python-Playlist-Creator)
+- Developed an improved version of my Spotify Playlist project using Python, JavaScript, and Spotify API with OAuth2 authentication. 
+- Users can now securely create custom playlists (with names and descriptions) and add songs through a web interface. 
+- Added features include song search with expanded results, persistent sessions for multiple playlist creations, and secure user authentication via Spotify's OAuth2 flow.
+
 ### DjangoChat
 [Github](https://github.com/eamonwong/djangochat)
 - Crafted with Python, DjangoChat offers a real-time chat platform facilitated by Django, a high-level Python web framework. It provides users with instantaneous messaging capabilities without the need for page refresh.
