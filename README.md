@@ -22,7 +22,7 @@
 - Contributed to the development of the wallet’s frontend using React, implementing dynamic and user-friendly features that improved the overall user experience. Worked closely with the design team to ensure seamless integration between the frontend and backend systems.
 - Leveraged startup experience to remain resourceful and adaptable in addressing challenges, contributing to the start-up’s financial stability by effectively managing development resources and driving project success. My ability to work independently and collaborate in a team helped the start-up achieve key milestones.
 
-**Freelance Software Developer, Glasgow @ Various Clients (Jan 2021 - Feb 2025)**
+**Freelance Software Developer, Glasgow @ Various Clients (Jan 2023 - Feb 2025)**
 - Led the design and development of Python, Flask, and Django projects, including a content aggregator and expense tracker, achieving less than 20% code churn.
 - Created RESTful APIs using Flask to handle backend logic for client applications, enhancing performance and usability.
 - Implemented a secure login module and transaction management system using Django, boosting overall departmental process efficiency by 14%.
