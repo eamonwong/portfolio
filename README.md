@@ -56,6 +56,12 @@
 - Users can now securely create custom playlists (with names and descriptions) and add songs through a web interface. 
 - Added features include song search with expanded results, persistent sessions for multiple playlist creations, and secure user authentication via Spotify's OAuth2 flow.
 
+### Weather Notification Email
+[Github](https://github.com/eamonwong/WeatherNotificationEmail)
+- Developed an automated weather email notification system using Python, integrating the OpenWeatherMap API and SMTP email services.
+- The system fetches real-time weather data and daily forecasts, then sends formatted email summaries with temperature ranges, conditions, humidity, and wind speed.
+- Implemented scheduling and retry logic for reliable daily delivery, along with error handling for API failures and email server issues.
+
 ### DjangoChat
 [Github](https://github.com/eamonwong/djangochat)
 - Crafted with Python, DjangoChat offers a real-time chat platform facilitated by Django, a high-level Python web framework. It provides users with instantaneous messaging capabilities without the need for page refresh.
